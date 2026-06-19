@@ -37,3 +37,11 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+# tests/test_sample.py
+
+def test_example():
+    assert 2 + 2 == 4
+# tests/test_sample.py
+
+def test_example():
+    assert 2 + 2 == 4
